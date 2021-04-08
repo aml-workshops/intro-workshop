@@ -131,3 +131,6 @@ dmypy.json
 .ipynb_aml_checkpoints/
 .amlignore.amltmp
 *.amltmp
+
+logs/
+outputs/
