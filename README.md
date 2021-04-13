@@ -6,22 +6,24 @@ This workshop assumes your AML Workspace has been setup using the [AML-Workshops
 ### Sample Agenda for 2 half-days:
 
 #### Day 1:
-| Agenda Item                   | Duration  |
-| -------------------------     | --------  |
-| Introductions and Overview    | 1 hour    |
-| Environment Setup             | 1 hour    | - cover in alternative ways...
-| Intro to Training in Notebook | 1 hour    |
-| Advanced Notebook Training    | 1 hour    |
-| Training in AML Compute       | 1 hour    |
-| Wrap Up                       | 30 mins   |
+| Agenda Item                    | Duration  |
+| -------------------------      | --------  |
+| Introductions and Overview     | 45 mins   |
+| Environment Setup              | 45 mins   |
+| Break                          | 15 mins   |
+| Intro to Training in Notebook  | 45 mins   |
+| Remote Training in AML Compute | 1 hour    |
+| Wrap Up                        | 30 mins   |
 <br>
 
 #### Day 2:
 | Agenda Item                   | Duration  |
 | -------------------------     | --------  |
-| Day 1 Recap                   | 1 hour    |
-| Hyperparameter Optimization   | 1 hour    |
+| Day 1 Recap                   | 15 mins   |
+| Hyperparameter Optimization   | 45 mins   |
+| NLP Training                  | 1 hour    |
 | Break                         | 15 mins   |
-| ML Pipeline Orchestration     | 30 mins   |
-| Deploying for Inferencing     | 1 hour    |
+| Deploying for Inferencing     | 1.5 hours |
 | Wrap Up                       | 30 mins   |
+
+
