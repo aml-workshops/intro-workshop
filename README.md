@@ -1,5 +1,5 @@
 # Azure Machine Learning Introduction
-An introductory workshop for Azure Machine Learning - this workshop will focus on leveraging a BERT model for an NLP Classification task.
+An introductory workshop for Azure Machine Learning - this workshop will focus on an introductory, tabular dataset. On day 2, we'll quickly demo a larger, semi-structured dataset with Deep Learning.
 
 This workshop assumes your AML Workspace has been setup using the [AML-Workshops/setup repo](https://github.com/aml-workshops/setup)
 
