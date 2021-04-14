@@ -21,7 +21,6 @@ This workshop assumes your AML Workspace has been setup using the [AML-Workshops
 | -------------------------     | --------  |
 | Day 1 Recap                   | 15 mins   |
 | Hyperparameter Optimization   | 45 mins   |
-| NLP Training                  | 1 hour    |
 | Break                         | 15 mins   |
 | Deploying for Inferencing     | 1.5 hours |
 | Wrap Up                       | 30 mins   |
