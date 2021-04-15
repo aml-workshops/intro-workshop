@@ -130,7 +130,7 @@ def main(validation_data_path: str, model_metadata_folder: str, existing_model_n
     # If the challenger has a lower RMSE, then recommend model registration
     recommend_register = bool(chall_rmse < champ_rmse)
 
-    run.add_properties({'recommend_register': recommend_register})
+    run.log('recommend_register', recommend_register)
 
     # Write the model recommendation
     write_recommendation_file(registration_decision_folder, recommend_register)
